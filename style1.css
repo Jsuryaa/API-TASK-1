@@ -1,0 +1,35 @@
+
+.input-group {
+    width: 100%;
+    max-width: 500px; 
+    margin: 0 auto;
+}
+
+.form-control {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.input-group-append {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+#searchButton {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.card {
+    color: white;
+}
+
+.card-title {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.card-text {
+    font-size: 1rem;
+    margin-bottom: 0.3rem;
+}
